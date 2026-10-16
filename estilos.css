@@ -1,0 +1,12 @@
+h1 {color: pink;
+          background-color: grey;
+          text-decoration: underline;
+   }
+  h1 {font-size: 36px;}
+  h1{text-align: center;}
+.azul {color: blue;}
+.amarillo {color: yellow;}
+img {width: 350px;
+     height: auto;
+    }
+      
